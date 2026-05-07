@@ -19,4 +19,4 @@ A mobile travel application developed using Android Studio that allows users to 
 This project strengthened my mobile application development skills, UI design, and Android activity lifecycle understanding.
 
 ## Author
-Olwethu Tshabangu
+Olwethu Tshabangu 
