@@ -3,7 +3,7 @@
 ## Overview
 A mobile travel application developed using Android Studio that allows users to browse destinations and travel-related information.
 
-## Technologies Used
+## Technologies Used 
 - Java
 - Android Studio
 - XML
